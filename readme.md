@@ -4,4 +4,5 @@
 4. Link this new virtual envionment to the ipykernel in Jupyter Lab : 'python -m ipykernel install --user --name genai-env --display-name "Python (genai-env)"'
 5. Open Jupyter Lab : 'jupyter lab'
 6. Select this kernel "Python (genai-env)" in Jupyter lab.
-7. Run the notebook
+7. Log into 'https://platform.openai.com' and create open-api-key. Update this key in the .env file.
+8. Run the notebook.
