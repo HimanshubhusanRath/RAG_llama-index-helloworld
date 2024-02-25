@@ -1,0 +1,7 @@
+1. Create a new environment : 'conda create -n genai-env python=3.10'
+2. Activate the environment : 'conda activate genai-env'
+3. Install the required dependencies : 'pip install -r requirements.txt'
+4. Link this new virtual envionment to the ipykernel in Jupyter Lab : 'python -m ipykernel install --user --name genai-env --display-name "Python (genai-env)"'
+5. Open Jupyter Lab : 'jupyter lab'
+6. Select this kernel "Python (genai-env)" in Jupyter lab.
+7. Run the notebook
