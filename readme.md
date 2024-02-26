@@ -1,6 +1,7 @@
 # RAG using llama-index
 This project demonstrates how to use llama index to create a query engine on custom data (list of PDF files). This query engine should be able to answer questions related to the content in these PDF files.
 
+Please follow the below steps to test this project:
 1. Create a new environment : 'conda create -n genai-env python=3.10'
 2. Activate the environment : 'conda activate genai-env'
 3. Install the required dependencies : 'pip install -r requirements.txt'
